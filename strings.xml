@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Nasza apka</string>
+    <string name="text_accounts">Wszystkie konta</string>
+    <string name="hint_name">Nazwa</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Hasło</string>
+    <string name="hint_confirm_password">Potwierdź hasło</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Zarejestruj</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Zarejestrowany pomyślnie</string>
+    <string name="text_not_member">Nie masz jeszcze konta? Zarejestruj się klikając tutaj</string>
+    <string name="text_already_member">Jesteś już zarejestrowany? Zaloguj się</string>
+    <string name="error_email_exists">W bazie istnieje już podany email</string>
+    <string name="error_password_match">Hasła nie pasują</string>
+    <string name="error_valid_email_password">Podałeś niewłaściwy email lub hasło</string>
+    <string name="action_settings">Opcje</string>
+    <string name="text_hello">Witaj,</string>
+    <string name="text_title">Zarejestrowani użytkownicy</string>
+</resources>
